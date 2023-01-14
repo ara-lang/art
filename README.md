@@ -6,5 +6,5 @@ Ara Art 🎨
 
 | File | Description | Preview |
 | --- | --- | --- |
-| [`logo/ara-light.svg`](./logo/ara-light.svg) | Logo for light backgrounds | ![](./logo/ara-light-preview.png) |
-| [`logo/ara-dark.svg`](./logo/ara-dark.svg) | Logo for dark backgrounds | ![](./logo/ara-dark-preview.png) |
+| [`logo/ara-light.svg`](./logo/ara-light.svg) | Logo for light backgrounds | <img src="./logo/ara-light-preview.png" width="128" /> |
+| [`logo/ara-dark.svg`](./logo/ara-dark.svg) | Logo for dark backgrounds | <img src="./logo/ara-dark-preview.png" width="128" /> |
